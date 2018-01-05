@@ -25,6 +25,7 @@ Simple todo script (requires clint)
 ```sh
 # if clint is not installed
 $ pip install clint
+
 # todo usage
 $ todo list
 $ todo add <message>
